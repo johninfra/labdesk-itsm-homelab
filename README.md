@@ -50,7 +50,7 @@ This lab was created to demonstrate practical IT support skills using a VMware h
 | Printer offline | Test User | Operations | PRINT-SRV01 | Open |
 | Login issue | John Client | Finance | WIN-CLIENT01 | In Progress |
 | Shared folder access request | HR User | HR | DC1 | Open |
-| Workstation cannot reach domain controller | John Tyer | IT | WIN-CLIENT01 | Escalated |
+| Workstation cannot reach domain controller | John Test | IT | WIN-CLIENT01 | Escalated |
 | Suspicious outbound traffic | John Tyler | Security | KALI-01 | Open |
 
 ## Screenshots
