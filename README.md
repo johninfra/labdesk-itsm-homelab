@@ -47,11 +47,11 @@ This lab was created to demonstrate practical IT support skills using a VMware h
 
 | Ticket | User | Department | Asset | Status |
 |---|---|---|---|---|
-| Printer offline | HR User | HR | PRINT-SRV01 | Open |
-| Login issue | John Client | HR | WIN-CLIENT01 | In Progress |
-| Shared folder access request | Finance User | Finance | DC1 | Open |
-| Workstation cannot reach domain controller | John Client | HR | WIN-CLIENT01 | Escalated |
-| Suspicious login attempt review | Security User | Security | DC1 | Open |
+| Printer offline | Test User | Operations | PRINT-SRV01 | Open |
+| Login issue | John Client | Finance | WIN-CLIENT01 | In Progress |
+| Shared folder access request | HR User | HR | DC1 | Open |
+| Workstation cannot reach domain controller | John Tyer | IT | WIN-CLIENT01 | Escalated |
+| Suspicious outbound traffic | John Tyler | Security | KALI-01 | Open |
 
 ## Screenshots
 
