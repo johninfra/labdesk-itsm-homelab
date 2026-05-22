@@ -83,7 +83,7 @@ This lab was created to demonstrate practical IT support skills using a VMware h
 ![Windows Client IP Configuration](screenshots/09-windows-client-ipconfig.png)
 
 ### Kali Nmap Scan
-![Kali Nmap Scan](screenshots/10-kali-nmap-scan.png)
+![Kali Nmap Scan](screenshots/10-kali-nmap-scan1.png)
 
 ## Skills Demonstrated
 
