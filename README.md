@@ -85,7 +85,7 @@ Within this simulated enterprise environment, I acted as the IT Administrator re
 ### Users
 ![Users](screenshots/06-users.png)
 
-### VMware Lab
+### VMware Lab Setup
 ![VMware Lab](screenshots/07-vmware-lab.png)
 
 ### Active Directory Users
