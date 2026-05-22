@@ -4,7 +4,24 @@
 
 LabDesk ITSM is a simulated enterprise help desk and IT service management platform built to document and practice real-world Tier 1 IT support workflows. The project connects users, departments, tickets, and assets inside a realistic service desk environment.
 
+The project connects Active Directory users, departments, tickets, and assets inside a realistic service desk environment.
+
 This lab was created to demonstrate practical IT support skills using a VMware homelab, Windows Server 2022, Active Directory, Windows client machines, Kali Linux, asset tracking, ticket resolution, and structured troubleshooting documentation.
+
+## Active Directory Integration
+
+The LabDesk ITSM platform was integrated with Active Directory Users and Computers inside the VMware homelab environment. User accounts, departments, and support identities created in Active Directory were incorporated into the ITSM web application to simulate a realistic enterprise help desk environment.
+
+This integration allowed the lab to simulate:
+
+- Active Directory user account management
+- User-based ticket creation and assignment
+- Department-based support workflows
+- Password reset and account unlock scenarios
+- Role-based technician and administrator access
+- Enterprise identity and asset management concepts
+
+AD users created in the Windows Server 2022 domain environment were used throughout the ticketing system to demonstrate real-world Tier 1 IT support operations and service desk workflows.
 
 ## Lab Setup
 
