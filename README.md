@@ -2,7 +2,7 @@
 
 ## Overview
 
-LabDesk ITSM is a simulated enterprise help desk and IT service management platform built to document and practice real-world Tier 1 IT support workflows. 
+LabDesk ITSM is a simulated enterprise help desk and IT service management platform built to document and practice real-world IT support workflows. 
 
 The project connects Active Directory users, departments, tickets, and assets inside a realistic service desk environment.
 
