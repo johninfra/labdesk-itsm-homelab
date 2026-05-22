@@ -43,6 +43,18 @@ This lab was created to demonstrate practical IT support skills using a VMware h
 - Knowledge base section
 - GitHub export page
 
+## Administrative Role
+
+Within this simulated enterprise environment, I acted as the IT Administrator responsible for:
+
+- Managing Active Directory users and systems
+- Maintaining asset inventory
+- Handling ticket assignment and escalation
+- Troubleshooting workstation and network issues
+- Simulating help desk workflows
+- Documenting incidents and resolutions
+- Monitoring systems within the VMware lab environment
+
 ## Ticket Workflow Examples
 
 | Ticket | User | Department | Asset | Status |
