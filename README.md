@@ -1,4 +1,4 @@
-# LabDesk ITSM 
+# LabDesk IT Service Management Platform
 
 ## Overview
 
